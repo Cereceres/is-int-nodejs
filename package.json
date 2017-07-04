@@ -1,0 +1,29 @@
+{
+  "name": "is-int-nodejs",
+  "version": "1.0.0",
+  "description": "check if a number is a integer",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/is-int-nodejs.git"
+  },
+  "keywords": [
+    "integer",
+    "check",
+    "parse",
+    "int",
+    "number"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cereceres/is-int-nodejs/issues"
+  },
+  "homepage": "https://github.com/Cereceres/is-int-nodejs#readme"
+}
