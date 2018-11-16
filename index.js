@@ -1,3 +1,1 @@
-module.exports = (_number) => {
-    return Number.isInteger(+_number);
-};
+module.exports = _number => Number.isInteger(+_number);
